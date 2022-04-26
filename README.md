@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Kelvin-Boat365
+- 👀 I’m interested in  Web Dev, Computer Networking...
+- 🌱 I’m currently offering Computer Science...
+- 💞️ I’m looking to collaborate on improving my skills...
+- 📫 I am a computer science student who loves to contribute and share my knowledge i love to learn new technologies to help improve on my skills
+<!---
+Kelvin-Boat365/Kelvin-Boat365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
